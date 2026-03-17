@@ -1,7 +1,6 @@
 # UrlShorty
 
-A lightweight URL shortener REST API built with Spring Boot. Submit a long URL, get an 8-character code back. That's it.
-
+A lightweight URL shortener REST API built with Spring Boot. Submit a long URL, get an 8-character code back.
 ---
 
 ## Tech Stack
